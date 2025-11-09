@@ -1,5 +1,5 @@
 # do-while
-ˇˇˇ
+'''
 string kasutajaNimi = "";
 do
 {
